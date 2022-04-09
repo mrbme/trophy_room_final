@@ -1,16 +1,17 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.text-special-1 {
+    font-family: 'Special Elite', cursive !important;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.text-special-2 {
+    font-family: 'Bungee Shade', cursive !important;
 }
 
-* {
-  box-sizing: border-box;
+.text-special-3 {
+    font-family: 'Syne Mono', monospace !important;
 }
