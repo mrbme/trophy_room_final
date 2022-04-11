@@ -25,9 +25,9 @@ const Navbar = () => {
               <Countdown />
             </div>
             <div className='flex flex-row space-x-2'>
-              <FontAwesomeIcon icon={faDiscord} size='lg' />
-              <FontAwesomeIcon icon={faTwitter} size='lg' />
-              <FontAwesomeIcon icon={faInstagram} size='lg' />
+              <a href='https://discord.gg/ejjuSb5q5J' target='_blank' rel='noreferrer'><FontAwesomeIcon icon={faDiscord} size='lg' /></a>
+              <a href='https://twitter.com/trophyroomclub' target='_blank' rel='noreferrer'><FontAwesomeIcon icon={faTwitter} size='lg' /></a>
+              <a href='https://instagram.com/trophyroomclub' target='_blank' rel='noreferrer'><FontAwesomeIcon icon={faInstagram} size='lg' /></a>
             </div>
           </div>
         </Container>

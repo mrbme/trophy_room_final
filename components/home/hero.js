@@ -41,7 +41,7 @@ const Hero = () => (
                   />
                 </div>
                 <div>
-                  <a href='/' className='rounded border-2 border-solid border-gray-50 bg-black px-3 py-2 font-bold text-white shadow-xl hover:bg-white hover:text-gray-800'>
+                  <a href='https://discord.gg/ejjuSb5q5J' target='_blank' className='rounded border-2 border-solid border-gray-50 bg-black px-3 py-2 font-bold text-white shadow-xl hover:bg-white hover:text-gray-800' rel='noreferrer'>
                     Get on the Whitelist
                   </a>
                 </div>
