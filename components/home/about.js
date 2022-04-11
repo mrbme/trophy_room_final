@@ -22,7 +22,7 @@ const About = () => (
         algorithmically generated NFTs of a particular popular game
         animal. Each animal will contain features and attributes of
         varying rarities. During each season, minters will have a chance
-        to win gear associates with the harvest of each animal.
+        to win gear associated with the harvest of each animal.
       </p>
       <p className='text-center text-xl'>
         Last but not least, 20% of every initial mint will be donated to
