@@ -17,7 +17,7 @@ const timeline = [
   },
   {
     id: 2,
-    content: 'Giveways awarded to minters; Revenue awarded to determined charity.',
+    content: 'Giveways awarded to minters; Revenue awarded to determined charity',
     date: 'June 2022',
     datetime: '2022-06-22',
     icon: function () {
@@ -41,7 +41,7 @@ const timeline = [
   },
   {
     id: 4,
-    content: 'Giveways awarded to minters; Revenue awarded to determined charity.',
+    content: 'Giveways awarded to minters; Revenue awarded to determined charity',
     date: 'December 2022',
     datetime: '2022-12-22',
     icon: function () {
@@ -77,7 +77,7 @@ const timeline = [
   },
   {
     id: 7,
-    content: 'Giveways awarded to minters; Revenue awarded to determined charity.',
+    content: 'Giveways awarded to minters; Revenue awarded to determined charity',
     date: 'Feburary 2023',
     datetime: '2023-02-01',
     icon: function () {
