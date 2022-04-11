@@ -10,12 +10,12 @@ const Footer = () => {
           <div>
             <img className='h-32 w-32' src='/media/trophyroom_logo.png' alt='TrophyRoomClub logo' />
           </div>
-          <div className='space-x-3'>
+          <div className='space-x-6'>
             <Link href='/privacy'>
               <a href='/privacy'>Privacy</a>
             </Link>
             <Link href='/rules'>
-              <a href='/rules'>Rules</a>
+              <a href='/rules'>Giveway Rules</a>
             </Link>
           </div>
           <div className='flex flex-row space-x-2'>

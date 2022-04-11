@@ -53,7 +53,7 @@ const timeline = [
   },
   {
     id: 5,
-    content: 'Begin Development of TrohpyRoomClub Network',
+    content: 'Begin Development of TrophyRoomClub Network',
     date: 'December 2022',
     datetime: '2022-12-22',
     icon: function () {
@@ -89,7 +89,7 @@ const timeline = [
   },
   {
     id: 8,
-    content: 'Launch of TrohpyRoomClub Network',
+    content: 'Launch of TrophyRoomClub Network',
     date: 'April 2023',
     datetime: '2023-04-01',
     icon: function () {

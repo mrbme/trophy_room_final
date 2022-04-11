@@ -5,11 +5,11 @@ const Privacy = () => {
         <h1 className='text-center text-gray-100'>Privacy Policy</h1>
         <p>
           This Privacy Notice (&quot;Privacy Notice&quot;) describes the privacy practices
-          of Trohpy Room Club Inc and its subsidiaries and affiliates (collectively,
-          &quot;Trohpy Room Club &quot; or &quot;us&quot; or &quot;we&quot;).
+          of Trophy Room Holdings LLC and its subsidiaries and affiliates (collectively,
+          &quot;Trophy Room Club &quot; or &quot;us&quot; or &quot;we&quot;).
         </p>
         <p>
-          Trohpy Room Club provides technology based services to other businesses – our
+          Trophy Room Club provides technology based services to other businesses – our
           clients. To take advantage of our services, our clients share with us
           information about their individual consumers, including contact details
           and shopping histories. We analyze that information the best serve the
@@ -35,7 +35,7 @@ const Privacy = () => {
           personal capacity.
         </p>
         <h2 className='text-gray-50'>INFORMATION WE COLLECT</h2>
-        <h3 className='text-gray-50'>Information We Collect for Trohpy Room Club's Own Business Purposes</h3>
+        <h3 className='text-gray-50'>Information We Collect for Trophy Room Club's Own Business Purposes</h3>
         <p>
           We may collect information about individuals who interact with Market
           Labs when using our website or services.
@@ -104,10 +104,10 @@ const Privacy = () => {
           our services.
         </p>
         <p>
-          Trohpy Room Club has implemented the invisible reCAPTCHA and is subject to
+          Trophy Room Club has implemented the invisible reCAPTCHA and is subject to
           the Google Privacy Policy and Terms of Service.
         </p>
-        <h3 className='text-gray-50'>Automated Data Collection for Trohpy Room Club's Own Business Purposes</h3>
+        <h3 className='text-gray-50'>Automated Data Collection for Trophy Room Club's Own Business Purposes</h3>
         <p>
           The information collected by automated means for our own business
           purposes includes:
@@ -168,7 +168,7 @@ const Privacy = () => {
         </ul>
         <h3 className='text-gray-50'>OUR USE OF PERSONAL INFORMATION</h3>
         <h4 className='text-gray-50'>
-          Our Use of Personal Information for Trohpy Room Club's Own Business Purposes
+          Our Use of Personal Information for Trophy Room Club's Own Business Purposes
         </h4>
         <p>We may use personal information to:</p>
         <ul>
@@ -220,7 +220,7 @@ const Privacy = () => {
         <p>
           We use personal information we collect from or on behalf of our clients
           to provide services to our clients at their direction. We do not use
-          this information for Trohpy Room Club's own purposes. We use personal
+          this information for Trophy Room Club's own purposes. We use personal
           information only as directed or authorized by our client. Typically, we
           are directed or authorized to use personal information collected on
           behalf of the client to:
@@ -267,7 +267,7 @@ const Privacy = () => {
         </p>
         <h2 className='text-gray-50'>PRIVACY PREFERENCES, RIGHTS, AND CHOICES</h2>
         <p>
-          Individuals have certain rights and choices regarding Trohpy Room Club's
+          Individuals have certain rights and choices regarding Trophy Room Club's
           processing of their personal information. Please note, however, that if
           the exercise of these rights limits our ability to process personal
           information, we may be precluded from providing our products or services
@@ -275,7 +275,7 @@ const Privacy = () => {
           with such individuals going forward.
         </p>
         <p>
-          Individuals whose personal information Trohpy Room Club processes on behalf
+          Individuals whose personal information Trophy Room Club processes on behalf
           of a client should contact that client to exercise the rights and
           choices described in this section. We reserve the right to verify the
           identity of the individual in connection with any requests regarding
@@ -293,8 +293,8 @@ const Privacy = () => {
           you previously provided to us, or object at any time on legitimate
           grounds, to the processing of your personal information. We will apply
           your preferences going forward. In some circumstances, withdrawing your
-          consent to Trohpy Room Club's use or disclosure of your personal information
-          will mean that Trohpy Room Club will not be able to provide products or
+          consent to Trophy Room Club's use or disclosure of your personal information
+          will mean that Trophy Room Club will not be able to provide products or
           services to you or to otherwise engage with you. Access to Personal
           Information
         </p>
@@ -331,7 +331,7 @@ const Privacy = () => {
         <h2 className='text-gray-50'>Marketing Emails</h2>
         <p>
           You may unsubscribe from receiving marketing or other commercial emails
-          from Trohpy Room Club by following the instructions included in the email.
+          from Trophy Room Club by following the instructions included in the email.
           However, even if you opt out of receiving such communications, we retain
           the right to send you non-marketing communications (such as information
           about changes to our website terms)
@@ -342,7 +342,7 @@ const Privacy = () => {
           in which the data was originally collected for the purposes described in
           this Privacy Notice. For example, if you are located outside of the
           United States, we typically transfer your personal information to the
-          United States, where Trohpy Room Club is headquartered. The countries to
+          United States, where Trophy Room Club is headquartered. The countries to
           which we transfer personal information may not have the same data
           protection laws as the country in which you initially provided the
           information.
@@ -359,14 +359,14 @@ const Privacy = () => {
         <h2 className='text-gray-50'>LINKS TO OTHER WEBSITES AND THIRD-PARTY CONTENT</h2>
         <p>
           We may provide links to websites and other third-party content that is
-          not owned or operated by Trohpy Room Club . The websites and third-party
+          not owned or operated by Trophy Room Club . The websites and third-party
           content to which we link may have separate privacy notices or policies.
-          Trohpy Room Club is not responsible for the privacy practices of any entity
+          Trophy Room Club is not responsible for the privacy practices of any entity
           that it does not own or control.
         </p>
         <h2 className='text-gray-50'>CHANGES TO OUR PRIVACY NOTICE</h2>
         <p>
-          Trohpy Room Club reserves the right to change this Privacy Notice at any
+          Trophy Room Club reserves the right to change this Privacy Notice at any
           time. When we update this Privacy Notice, we will notify you of changes
           that are deemed material under applicable legal requirements by updating
           the date of this Privacy Notice and providing other notification as
@@ -389,7 +389,7 @@ const Privacy = () => {
           You may contact us with questions, comments, or complaints about this
           Privacy Notice or our privacy practices, or if you wish to access,
           delete or correct you information, by emailing{' '}
-          <a href='mailto:privacy@trophyroomclub.com'>privacy@trophyroomclub.com</a>.
+          <a className='text-gray-50' href='mailto:privacy@trophyroomclub.com'>privacy@trophyroomclub.com</a>.
         </p>
       </div>
     </div>

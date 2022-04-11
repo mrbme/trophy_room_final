@@ -29,7 +29,7 @@ const About = () => (
         a charity associated with each season.
       </p>
       {/* <p className='text-xl'>
-        Our ultimate mission of the Trohpy Room Club is to create a token-holders only digital property
+        Our ultimate mission of the Trophy Room Club is to create a token-holders only digital property
         where members can have a dedicated place to discuss all things outdoors. From the best gear for your elk hunt, to public land tips, to how to step up carolina rig and more. Every member, through the purchase of their NFT, will also have given back to each charity for that season.
       </p> */}
     </Container>

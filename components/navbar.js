@@ -15,7 +15,7 @@ const Navbar = () => {
                   <img
                     className='w-16'
                     src='media/trophyroom_logo.png'
-                    alt='TrophRoomClub logo'
+                    alt='TropyhRoomClub logo'
                   />
                 </a>
               </Link>

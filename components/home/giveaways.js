@@ -1,7 +1,7 @@
 import Container from '@/components/container.js'
 import Link from 'next/link'
 import Od from '@/components/home/odometer.js'
-
+import Image from 'next/image'
 const items = [
   {
     amount: '10 mints',
@@ -24,13 +24,13 @@ const items = [
   },
   {
     amount: '500 mints',
-    description: '$500 to Outfitter Retailer',
+    description: '$500 to Outdoor Retailer',
     src: '/media/outdoors_co.jpg',
     url: ''
   },
   {
     amount: '750 mints',
-    description: '$1,000 to Outfitter Retailer',
+    description: '$1,000 to Outdoor Retailer',
     src: '/media/outdoors_co.jpg',
     url: ''
   },
@@ -49,7 +49,7 @@ const items = [
   },
   {
     amount: 'Sell Out!',
-    description: 'Outfitter guided Turkey Hunt with, Benelli Super Black Eagle 12 Gauge, Benchmade Saddle Mountain Skinner,  $500 in outdoors retailer and Woodhaven Cherry Classic Crystal Call.',
+    description: 'Outfitter guided Turkey Hunt with Benelli Super Black Eagle 12 Gauge, Benchmade Saddle Mountain Skinner,  $500 to an outdoors retailer and Woodhaven Cherry Classic Crystal Call.',
     src: '/media/turkey_hunt.jpg',
     url: ''
   }
