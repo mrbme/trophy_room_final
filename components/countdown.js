@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 const Countdown = () => {
   const calculateTimeLeft = () => {
     const year = new Date().getFullYear()
-    const difference = +new Date(`05/01/${year}`) - +new Date()
+    const difference = +new Date(`05/06/${year}`) - +new Date()
     let timeLeft = {}
 
     if (difference > 0) {
@@ -41,7 +41,7 @@ const Countdown = () => {
     )
   })
   return (
-    <div className='bg-transparent'>
+    <div className='bg-transparent text-center'>
       {timerComponents.length ? timerComponents : <span>Time's up!</span>}
     </div>
   )

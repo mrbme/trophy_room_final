@@ -12,7 +12,7 @@ const About = () => (
         className='mx-auto h-48'
         alt='Trophy Mount'
       />
-      <p className='text-center text-3xl font-bold text-special'>
+      <p className='text-special text-center text-3xl font-bold'>
         Our core mission is give back to the outdoors community through
         the sale of exclusive NFTs all while fulfilling our longterm
         roadmap.
@@ -32,33 +32,6 @@ const About = () => (
         Our ultimate mission of the Trohpy Room Club is to create a token-holders only digital property
         where members can have a dedicated place to discuss all things outdoors. From the best gear for your elk hunt, to public land tips, to how to step up carolina rig and more. Every member, through the purchase of their NFT, will also have given back to each charity for that season.
       </p> */}
-      <h2 className='text-special-2 text-4xl font-bold tracking-wide text-center pt-10'>
-        Upcoming Season
-      </h2>
-      <p className='text-special-1 py-5 text-center text-xl'>
-        2500 unique designs
-      </p>
-      <div className='flex flex-col'>
-        <div className='text-special-1 text-center text-3xl'>
-          Turkey Season Opens May 1, 2022
-        </div>
-        <div className='text-center'>
-          Donations go to:
-          <a
-            target='_blank'
-            href='https://www.nwtf.org/'
-            className='text-special-1 pl-5 text-xl hover:underline'
-            rel='noreferrer'
-          >
-            <img
-              className='mx-auto h-36'
-              src='media/nwtf_logo.png'
-              alt='NWTF Logo'
-            />
-            NWTF (National Wild Turkey Federation)
-          </a>
-        </div>
-      </div>
     </Container>
   </div>
 )

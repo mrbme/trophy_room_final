@@ -17,17 +17,17 @@ const Hero = () => (
           <div className='grid md:grid-cols-2'>
             <div>
               <p className='text-special-1 py-5 text-xl text-white'>
-                Launching 5/1/22
+                Launching 5/06/22
               </p>
               <h1 className='text-special-2 text-5xl text-white'>
                 Welcome to The Trophy Room Club
               </h1>
-              <p class='py-5 text-xl text-white'>
+              <p className='py-5 text-xl text-white'>
                 Our continuous NFT collection represents the
                 enthusiasm and dedication to the
                 outdoors and conservationship.
               </p>
-              <p class='py-5 text-xl text-white'>
+              <p className='py-5 text-xl text-white'>
                 <span className='font-extrabold underline text-2xl'>20%</span> of all initial sales, of every season, will be donated to
                 help fund conservation efforts to protect our
                 wetlands, public lands and game animals.
@@ -40,21 +40,23 @@ const Hero = () => (
                     className='mx-auto my-5 max-h-[500px] text-center shadow-lg ring-2 ring-gray-700'
                   />
                 </div>
-                <Link href='/'>
-                  <a className='rounded border-2 border-solid border-gray-50 bg-black px-3 py-2 font-bold text-white shadow-xl hover:bg-white hover:text-gray-800'>
+                <div>
+                  <a href='/' className='rounded border-2 border-solid border-gray-50 bg-black px-3 py-2 font-bold text-white shadow-xl hover:bg-white hover:text-gray-800'>
                     Get on the Whitelist
                   </a>
-                </Link>
+                </div>
               </div>
             </div>
             <div className='hidden md:block'>
-              <div>
+              <div className='mx-auto flex flex-col justify-center'>
                 <img
                   src='media/turkey.gif'
                   alt='Turkey'
-                  className='mx-auto my-5 max-h-[500px] text-center shadow-lg ring-2 ring-gray-700'
+                  className='mx-auto my-5 max-h-[500px] text-center shadow-lg ring-2 ring-gray-200'
                 />
-
+                <button disabled href='/' className='text-gray-700 w-64 mx-auto rounded border-2 border-solid border-gray-700 bg-black px-3 py-2 font-bold text-white shadow-xl'>
+                  Mint not available yet
+                </button>
               </div>
             </div>
           </div>

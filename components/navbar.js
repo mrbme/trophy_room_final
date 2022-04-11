@@ -20,7 +20,7 @@ const Navbar = () => {
                 </a>
               </Link>
             </div>
-            <div className='text-special-1 flex flex-row items-center justify-center space-x-5 py-5 text-white'>
+            <div className='flex-wrap md:flex text-special-1 flex flex-row items-center justify-center space-x-5 py-5 text-white'>
               <div>Next season drop: </div>
               <Countdown />
             </div>
