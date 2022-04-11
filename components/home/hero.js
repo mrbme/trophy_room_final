@@ -25,7 +25,7 @@ const Hero = () => (
               <p className='py-5 text-xl text-white'>
                 Our continuous NFT collection represents the
                 enthusiasm and dedication to the
-                outdoors and conservationship.
+                outdoors and conservation.
               </p>
               <p className='py-5 text-xl text-white'>
                 <span className='font-extrabold underline text-2xl'>20%</span> of all initial sales, of every season, will be donated to
