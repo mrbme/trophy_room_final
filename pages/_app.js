@@ -28,7 +28,7 @@ function MyApp ({ Component, pageProps }) {
           }}
         />
         <DefaultSeo
-          title='TrophyRoomClub | Mint Sale 5/5/2022 | Get Whitelisted'
+          title='TrophyRoomClub | Mint Sale 5/6/2022 | Get Whitelisted'
           description='Our continuous NFT collection represents the
                 enthusiasm and dedication to the
                 outdoors and conservation.'
@@ -36,7 +36,7 @@ function MyApp ({ Component, pageProps }) {
           openGraph={{
             type: 'Website',
             url: 'https://trophyroomclub.com',
-            title: 'TrophyRoomClub | Mint Sale 5/5/2022 | Get Whitelisted',
+            title: 'TrophyRoomClub | Mint Sale 5/6/2022 | Get Whitelisted',
             description: 'Our continuous NFT collection represents the enthusiasm and dedication to the outdoors and conservation.',
             images: [
               {
