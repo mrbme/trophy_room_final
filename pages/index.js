@@ -3,6 +3,7 @@ import About from '@/components/home/about.js'
 import UpcomingSeason from '@/components/home/upcoming_season.js'
 import Giveaways from '@/components/home/giveaways.js'
 import Roadmap from '@/components/home/roadmap.js'
+import ConnectWallet from '@/components/connect_wallet.js'
 const Index = () => {
   return (
     <>

@@ -17,7 +17,7 @@ const Hero = () => (
           <div className='grid md:grid-cols-2'>
             <div>
               <p className='text-special-1 py-5 text-xl text-white'>
-                Launching 5/06/22
+                Launching 5/20/22
               </p>
               <h1 className='text-special-2 text-5xl text-white'>
                 Welcome to The Trophy Room Club

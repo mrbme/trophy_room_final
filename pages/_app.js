@@ -2,7 +2,6 @@ import '../styles/globals.css'
 import '../styles/odometer.css'
 import Layout from '../components/layout.js'
 import { StatusProvider } from '../context/status_context.js'
-import { config } from '@fortawesome/fontawesome-svg-core'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 import { DefaultSeo } from 'next-seo'
 
@@ -28,7 +27,7 @@ function MyApp ({ Component, pageProps }) {
           }}
         />
         <DefaultSeo
-          title='TrophyRoomClub | Mint Sale 5/6/2022 | Get Whitelisted'
+          title='TrophyRoomClub | Mint Sale 5/20/2022 | Get Early Access'
           description='Our continuous NFT collection represents the
                 enthusiasm and dedication to the
                 outdoors and conservation.'
@@ -36,7 +35,7 @@ function MyApp ({ Component, pageProps }) {
           openGraph={{
             type: 'Website',
             url: 'https://trophyroomclub.com',
-            title: 'TrophyRoomClub | Mint Sale 5/6/2022 | Get Whitelisted',
+            title: 'TrophyRoomClub | Mint Sale 5/20/2022 | Get Early Access',
             description: 'Our continuous NFT collection represents the enthusiasm and dedication to the outdoors and conservation.',
             images: [
               {
