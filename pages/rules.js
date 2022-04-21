@@ -27,7 +27,7 @@ const Rules = () => {
             listed on the Giveaway Page (the "Promotion Period").
             All entries must be received during the Promotion Period
             and meet other requirements in these Official Rules to
-            be eligible to win a prize. <strong />
+            be eligible to win a prize.
           </p>
           <p>
             Drawing(s) will be held on the date listed on the
@@ -36,11 +36,11 @@ const Rules = () => {
           </p>
           <p>
             USERS MUST HAVE A VERIFIABLE OFFICIAL TROPHY ROOM CLUB
-            NFT IN THEIR WALLET. <strong />
+            NFT IN THEIR WALLET.
           </p>
           <p>
             THE MORE TROPHY ROOM CLUB NFTS IN YOUR WALLET, THE
-            GREATER YOUR CHANCES OF WINNING. <strong />
+            GREATER YOUR CHANCES OF WINNING.
           </p>
           <p>
             BY PARTICIPATING IN ELIGIBILITY, YOU AGREE TO THESE
@@ -200,8 +200,8 @@ const Rules = () => {
                   Information under Trophy Room Holdings,
                   LLC.'s Privacy Policy as posted at{' '}
                   <Link href='/privacy'>
-                    <a href='/privacy'>
-                      https://www.springfield-armory.com/legal/
+                    <a>
+                      https://trophyroomclub.com/privacy
                     </a>
                   </Link>
                 </li>
@@ -628,13 +628,6 @@ const Rules = () => {
           </ol>
           <p>
             © 2022 Trophy Room Holdings, LLC. All Rights Reserved.
-          </p>
-          <p>
-            Springfield©, Springfield Armory© and The Armory Life™
-            and corresponding logos are trademarks of Trophy Room
-            Holdings, LLC. All other trademarks, service marks,
-            logos, products, or service names are the property of
-            their respective owners.
           </p>
           <p>
             This Giveaway is in no way sponsored, endorsed or

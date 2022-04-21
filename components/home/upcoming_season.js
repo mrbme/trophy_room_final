@@ -7,10 +7,10 @@ const UpcomingSeason = () => (
       </h2>
       <div className='flex flex-col py-5'>
         <div className='text-special-1 text-center text-3xl'>
-          Turkey Season Opens May 06, 2022
+          Turkey Season Opens May 20, 2022
         </div>
         <p className='text-special-1 py-5 text-center text-xl'>
-          2750 unique designs
+          2,750 unique designs
         </p>
         <div className='text-center'>
           Donations go to:
