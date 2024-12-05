@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import Container from '@/components/container.js'
-
+import Form from '@/components/home/form.js'
+import ConnectWallet from '@/components/connect_wallet.js'
 const Hero = () => (
   <div className='relative'>
     <div className='relative sm:overflow-hidden'>
@@ -40,11 +41,7 @@ const Hero = () => (
                     className='mx-auto my-5 max-h-[500px] text-center shadow-lg ring-2 ring-gray-700'
                   />
                 </div>
-                <div>
-                  <a href='https://discord.gg/ejjuSb5q5J' target='_blank' className='rounded border-2 border-solid border-gray-50 bg-black px-3 py-2 font-bold text-white shadow-xl hover:bg-white hover:text-gray-800' rel='noreferrer'>
-                    Get on the Whitelist
-                  </a>
-                </div>
+                <ConnectWallet />
               </div>
             </div>
             <div className='hidden md:block'>

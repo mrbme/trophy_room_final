@@ -25,13 +25,16 @@
         "@tailwindcss/forms": "^0.4.0",
         "@tailwindcss/typography": "^0.5.0",
         "babel-plugin-macros": "^3.1.0",
+        "formik": "^2.2.9",
         "hardhat": "^2.9.3",
+        "mongodb": "3.5.9",
         "next": "12.1.4",
         "next-seo": "^5.4.0",
         "react": "^17.0.2",
         "react-countdown": "^2.3.2",
         "react-dom": "^17.0.2",
-        "react-odometerjs": "^2.1.2"
+        "react-odometerjs": "^2.1.2",
+        "yup": "^0.32.11"
     },
     "devDependencies": {
         "@nomiclabs/hardhat-etherscan": "^3.0.3",
